@@ -1,4 +1,4 @@
-## Portfolio-QA-engeneer- 
+## Portfolio-QA-engineer- 
 Hi! My name is Ekaterina and i'm a junior QA engineer. Here in my Portfolio you could find some of my projects, made by my during studying.
 
 
@@ -8,7 +8,7 @@ Hi! My name is Ekaterina and i'm a junior QA engineer. Here in my Portfolio you 
 ## Skills and technologies 
 Навыки и технологии
 
-`SQL` `PGadmin` `Exel` `Postman` `Jira` `Swagger` `Trello` `SoapUI` `Chrome DevTools` `qase.io` `Pyton`
+`SQL` `PGadmin` `Excel` `Postman` `Jira` `Swagger` `Trello` `SoapUI` `Chrome DevTools` `qase.io` `Python`
 
 
 ## Projects 
